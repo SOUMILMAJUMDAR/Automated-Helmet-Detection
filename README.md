@@ -149,7 +149,7 @@ Credits
 * Espressif - for ESP32-CAM and camera driver
 
 
-CIRCUIT DIAGRAM
+
 <img width="710" height="614" alt="image" src="https://github.com/user-attachments/assets/b96c7d3a-f613-46b0-bdfb-d924d1844cee" />
 
 
